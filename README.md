@@ -1,2 +1,2 @@
 # CSE101
-my favorite programming language is C++/JAVA
+my favorite programming language is C++/JAVA, no preference
